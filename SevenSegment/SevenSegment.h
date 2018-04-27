@@ -1,5 +1,5 @@
 /*
-* Display numbers from 0 to 15(0xA) on the SH5461AS
+* Display numbers from 0 to 15(0xF) on the SH5461AS
 * A->G: pin 2->pin 8
 * D1->D4: pin 9->pin 12
 *     A
