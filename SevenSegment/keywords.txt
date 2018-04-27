@@ -1,0 +1,4 @@
+SevenSegment	KEYWORD1
+displayDigit	KEYWORD2
+displayNumber	KEYWORD2
+selectSegment	KEYWORD2
