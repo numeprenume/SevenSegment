@@ -1,4 +1,11 @@
 SevenSegment	KEYWORD1
 displayDigit	KEYWORD2
 displayNumber	KEYWORD2
-selectSegment	KEYWORD2
+setBlinking	KEYWORD2
+setTurnedOn	KEYWORD2
+enableBlinking	KEYWORD2
+disableBlinking	KEYWORD2
+isDigitBlinking	KEYWORD2
+isDigitTurnedOn	KEYWORD2
+isBlinkingEnabled	KEYWORD2
+onStateChanged	KEYWORD2
