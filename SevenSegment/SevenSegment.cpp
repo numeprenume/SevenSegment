@@ -92,7 +92,7 @@ void SevenSegment::displayDigitInternal(byte digit)
 	digitalWrite(Pins::PIN_G, ((out & (MASK << 6)) != 0) ? ENABLE : DISABLE);
 }
 
-void SevenSegment::displayNumber(long number)
+void SevenSegment::displayNumber(int number)
 {
 	if (isBlinkingEnabled())
 		counter += 4 * DELAY;
