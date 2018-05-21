@@ -1,5 +1,5 @@
 # SevenSegment
-Easy to use Arduino library for the SH5461AS 7-segment display.
+Easy to use Arduino library for controlling 7-segment displays.
 
 ## Usage:
 ```c++
